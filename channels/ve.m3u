@@ -3,3 +3,5 @@
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="News",TeleSUR English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://commons.wikimedia.org/wiki/File:Ch_tv_logo_negro.png" group-title="News",ctv
+https://glb.bozztv.com/glb/ssh101/stream1234/index.m3u8
